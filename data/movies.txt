@@ -1,0 +1,5 @@
+M1|Interstellar|Sci-Fi|English|169|4.8|A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+M2|The Dark Knight|Action|English|152|4.9|Batman faces the Joker, a criminal mastermind who plunges Gotham into anarchy.
+M3|3 Idiots|Comedy-Drama|Hindi|170|4.7|Two friends search for their long-lost companion, revisiting college memories along the way.
+M4|Inception|Sci-Fi|English|148|4.7|A thief who steals corporate secrets through dream-sharing technology is given an inverse task.
+M5|RRR|Action-Drama|Telugu|187|4.6|A fictional story about two legendary revolutionaries and their journey away from home.
