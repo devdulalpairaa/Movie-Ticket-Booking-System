@@ -1,4 +1,4 @@
-package com.movieticket;
+ckage com.movieticket;
 
 import com.movieticket.gui.MainFrame;
 import com.movieticket.gui.UIConstants;

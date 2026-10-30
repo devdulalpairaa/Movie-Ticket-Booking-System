@@ -1,2 +1,4 @@
 U1|ADMIN|System Admin|admin|admin123|admin@movietickets.com|9999999999
 U2|CUSTOMER|Devdulal Paira|debupaira|Debu@832101|devdulalpaira2006@gmail.com|6202704308
+U3|CUSTOMER|Devdulal Paira|debu18|Debu2832101|devdulalpaira2006@gmail.com|6202704308
+U4|CUSTOMER|Devdulal Paira|debupaira18|Debu@832101|devdulalpaira2006@gmail.com|6202704308
